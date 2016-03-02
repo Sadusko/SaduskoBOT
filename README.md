@@ -24,3 +24,8 @@ You don't do anything, check the next day or contact Sadusko in order for him to
 
 ## Any questions?
 Leave them at Sadusko or you can make an issue on the issue tab!
+
+
+### Todos
+
+ - You will be able to find our todos at: [https://trello.com/b/D8u1AoAe/saduskobot]
